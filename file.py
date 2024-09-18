@@ -1,3 +1,6 @@
 print("Hello")
-def function(args):
-    pass
+def function():
+    print("Hello")
+function()
+for i in range(5):
+    print(i)
