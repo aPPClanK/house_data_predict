@@ -6,3 +6,4 @@ function()
 for i in range(5):
     print(i)
 main.goodbye()
+main.ClassName
