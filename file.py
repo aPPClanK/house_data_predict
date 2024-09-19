@@ -1,3 +1,4 @@
+from src import main
 print("Hello")
 def function():
     print("Hello")
